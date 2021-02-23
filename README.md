@@ -1,5 +1,5 @@
 # EverFuel
 Swayam Parida
-Tyler Vinh Vo
+Tyler Vo
 Anmol Tukrel
 Chinmay Patel
